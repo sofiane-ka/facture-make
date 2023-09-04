@@ -1,0 +1,18 @@
+table,th,td{
+    border:1px solid;
+}
+table{
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#design{
+    width: 200px;
+    text-align: start;
+}
+tr,th{
+  text-align: center;
+}
+td{
+    padding: 5px;
+}
