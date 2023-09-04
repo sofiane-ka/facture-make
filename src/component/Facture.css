@@ -7,11 +7,16 @@ table{
     margin-bottom: 0px;
 }
 #design{
+    padding: 5px;
     width: 200px;
     text-align: start;
 }
 tr,th{
+    padding: 3px;
   text-align: center;
+}
+tr{
+ font-size: 12px;
 }
 td{
     padding: 5px;
