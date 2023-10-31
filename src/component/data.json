@@ -1,0 +1,49 @@
+{
+   "produits": [{
+        "nom": "LOCATION D'UN (01) CAMION LEGER SANS CHAUFFEUR",
+        "unitee": "Jour",
+        "vehicule": "Camion JMC",
+        "mat": "04413-316-15",
+        "prix": "4500",
+        "debutPeriode": "21/06/2023",
+        "finPeriode": "20/07/2023",
+        "qt": "7"
+      },
+      {
+        "nom": "LOCATION D'UN (01) VOITURE LEGER AVEC CHAUFFEUR",
+        "unitee": "Jour",
+        "vehicule": "Camion JMC",
+        "mat": "04413-316-15",
+        "prix": "4500",
+        "debutPeriode": "21/06/2023",
+        "finPeriode": "20/07/2023",
+        "qt": "7"
+      }
+    ],
+    "clients":[
+        {
+          "nom": "COSIDER TP - PROJET T131",
+          "adresse": "OUZELLAGUEN - W- BEJAIA",
+          "rc": "99B0009368-00/16",
+          "nif": "099916000936842",
+          "ai": "06360038285",
+          "contract": "STL/505/23/P/T131"
+        },
+        {
+          "nom": "SOCIETEE-TP-PROJET T131",
+          "adresse": "DEM - W- BEJAIA",
+          "rc": "0000000-00/16",
+          "nif": "000000936842",
+          "ai": "0000060038285",
+          "contract": "STT/000/00/P/T131"
+        },
+        {
+            "nom": "SOC",
+            "adresse": "DEM - W- BEJAIA",
+            "rc": "0000000-00/16",
+            "nif": "000000936842",
+            "ai": "0000060038285",
+            "contract": "STT/000/00/P/T131"
+          }
+    ]
+}
